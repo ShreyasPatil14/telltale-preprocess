@@ -63,7 +63,7 @@ Though tailored for dashboard telltale icons, the pipeline can be adapted for si
 ---
 
 ## Sample Results  
-Input image | Cropping | Enhancement | Final output  
+Input image | Cropping | Enhancement | Final output (AI Model Input)
 
 1. Red icons:  
    ![Result1](icon-red1.png)  
