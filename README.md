@@ -1,7 +1,7 @@
 # telltale-preprocess
 A lightweight, frontend only, non-AI preprocessing pipeline for detecting, cropping and enhancing dashboard icons from images using JavaScript and the Canvas API.  
 
-This documentation showcases a frontend image preprocessing pipeline I built during my tenure as a GAT as JCB.  
+This documentation showcases a frontend image preprocessing pipeline I built during my tenure as a GAT at JCB.  
 
 ---
 
