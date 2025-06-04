@@ -5,7 +5,7 @@ This documentation showcases a frontend image preprocessing pipeline I built dur
 
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Design a *lightweight, frontend-only, non-AI image preprocessing pipeline* for Red, Green, Blue and Orange/Amber color icons using JavaScript and Canvas API
 - Detect and crop relevant regions of dashboard icons from raw images
@@ -15,7 +15,7 @@ This documentation showcases a frontend image preprocessing pipeline I built dur
 
 ---
 
-## 🚀 Key Features & Advantages
+## Key Features & Advantages
 
 ### 🔹 Lightweight Pipeline
 Designed without any AI or external libraries, this image preprocessing pipeline runs entirely in the browser using only JavaScript and the Canvas API. It’s fast, memory-efficient, and easy to integrate.
@@ -43,7 +43,7 @@ Though tailored for dashboard telltale icons, the pipeline can be adapted for si
 
 ---
 
-## 🧠 Pipeline Steps (Overview)
+## Pipeline Steps (Overview)
 
 1. *Input ImageData Extraction*  
    The pipeline begins by receiving an `ImageData` object extracted from a canvas element.
@@ -62,7 +62,7 @@ Though tailored for dashboard telltale icons, the pipeline can be adapted for si
 
 ---
 
-## 🖼️ Sample Results  
+## Sample Results  
 Input image | Cropping | Enhancement | Final output  
 
 1. Red icons:  
@@ -87,4 +87,5 @@ Input image | Cropping | Enhancement | Final output
 ---
 
 ## Main Process:  
+![code snapshot](input-function.png)   
 ![code snapshot](main-function.png)
