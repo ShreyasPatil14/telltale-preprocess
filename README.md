@@ -27,7 +27,7 @@ Built purely in the frontend environment using HTML5 Canvas and JavaScript, maki
 Uses traditional image processing techniques like dominant color detection and pixel-based filtering instead of deep learning, reducing complexity and increasing reliability.
 
 ### 🔹 High Accuracy on Clear Images
-Achieves *100% detection accuracy* on clean, high-resolution dashboard images. Logic performance gracefully degrades with image quality but remains effective in most practical scenarios.
+Achieves *100% accurate enhancement* on clean, high-resolution dashboard images. Logic performance gracefully degrades with image quality but remains effective in most practical scenarios.
 
 ### 🔹 Significant Boost in Model Accuracy
 When integrated into the pipeline of an AI prediction system, the preprocessing increased the model's accuracy from *~40% to 70–80%*, showcasing the impact of clean input preparation.
