@@ -2,7 +2,9 @@
 A lightweight, frontend only, non-AI preprocessing pipeline for detecting, cropping and enhancing dashboard icons from images using JavaScript and the Canvas API.  
 
 This documentation showcases a frontend image preprocessing pipeline I built during my tenure as a GAT as JCB.  
-  
+
+---
+
 ## 📌 Objectives
 
 - Design a *lightweight, frontend-only, non-AI image preprocessing pipeline* for Red, Green, Blue and Orange/Amber color icons using JavaScript and Canvas API
