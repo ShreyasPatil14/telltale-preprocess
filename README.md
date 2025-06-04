@@ -1,11 +1,11 @@
 # telltale-preprocess
 A lightweight, frontend only, non-AI preprocessing pipeline for detecting, cropping and enhancing dashboard icons from images using JavaScript and the Canvas API.  
 
-This documentation showcases a frontend image preprocessing pipeline Ibuilt during my tenure as a GAT as JCB.  
+This documentation showcases a frontend image preprocessing pipeline I built during my tenure as a GAT as JCB.  
   
 ## 📌 Objectives
 
-- Design a *lightweight, frontend-only image preprocessing pipeline* using JavaScript and Canvas API
+- Design a *lightweight, frontend-only, non-AI image preprocessing pipeline* for Red, Green, Blue and Orange/Amber color icons using JavaScript and Canvas API
 - Detect and crop relevant regions of dashboard icons from raw images
 - Remove background noise to generate cleaner input for prediction systems
 - Improve the performance and accuracy of downstream AI or rule-based models
@@ -60,6 +60,29 @@ Though tailored for dashboard telltale icons, the pipeline can be adapted for si
 
 ---
 
-## 🖼️ Sample Results
-1. Red Icons:
-   ![Result1](icon-red1.png)
+## 🖼️ Sample Results  
+Input image | Cropping | Enhancement | Final output  
+
+1. Red icons:  
+   ![Result1](icon-red1.png)  
+   ![Result1](icon-red2.png)
+
+
+2. Green icons:
+   ![Result1](icon-green1.png)  
+   ![Result2](icon-green2.png)
+
+3. Orange icons:
+   ![Result1](icon-orange1.0.png)  
+   ![Result2](icon-orange1.1.png)  
+   ![Result1](icon-orange2.0.png)  
+   *Note:* **Enhancement** is not applied to orange icons due to their multiple shades.
+
+4. Blue icons:  
+   ![Result1](icon-blue-crop.png)  
+   *Note:* complete result is not available to show.
+
+---
+
+## Main Process:  
+![code snapshot](main-function.png)
