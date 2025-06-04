@@ -62,4 +62,4 @@ Though tailored for dashboard telltale icons, the pipeline can be adapted for si
 
 ## 🖼️ Sample Results
 1. Red Icons:
-   ![Result1]()
+   ![Result1](icon-red1.png)
